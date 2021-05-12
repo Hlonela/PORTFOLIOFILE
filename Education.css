@@ -1,0 +1,33 @@
+.education-section .education-content {
+  text-align: center;
+}
+.education-section .education-content h1 {
+  font-size: 40px;
+}
+
+.education-section .education-content i {
+  font-style: normal;
+  font-variant-caps: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 14px;
+  line-height: 1;
+  font-family: FontAwesome;
+  font-size-adjust: none;
+  font-kerning: auto;
+  font-optical-sizing: auto;
+  font-variant-alternates: normal;
+  font-variant-east-asian: normal;
+  font-variant-ligatures: normal;
+  font-variant-numeric: normal;
+  font-variant-position: normal;
+  font-language-override: normal;
+  font-feature-settings: normal;
+  font-variation-settings: normal;
+  font-size: inherit;
+  text-rendering: auto;
+}
+
+.education-section .education-content p {
+  font-size: 20px;
+}

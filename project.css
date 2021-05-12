@@ -1,0 +1,14 @@
+.project-section .project-content {
+  text-align: center;
+}
+.project-section .project-content h1 {
+  font-size: 40px;
+}
+
+.project-section .project-content p {
+  font-size: 20px;
+}
+
+.left-content h1 {
+  color: goldenrod;
+}

@@ -1,0 +1,14 @@
+.skills-section .skills-content {
+  text-align: center;
+}
+.skills-section .skills-content h1 {
+  font-size: 40px;
+}
+
+.skills-section .skills-content p {
+  font-size: 20px;
+}
+
+.left-content h1 {
+  color: goldenrod;
+}

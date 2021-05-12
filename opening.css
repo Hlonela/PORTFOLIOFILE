@@ -1,0 +1,24 @@
+.left-content .home-section .home-content #name {
+  font-family: "Rubik Mono One", sans-serif;
+  font-weight: 700;
+  font-size: 70px;
+  color: black;
+}
+
+.left-content .home-section .home-content .her-surname {
+  font-size: 70px;
+  line-height: 70px;
+  font-weight: 700px;
+  color: black;
+  font-family: "Rubik Mono One", sans-serif;
+  position: relative;
+  left: 80px;
+}
+.part {
+  vertical-align: middle !important;
+}
+.left-content .home-section .home-content .introduce {
+  font-weight: 50px;
+  color: palevioletred;
+  margin: 50px;
+}

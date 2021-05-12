@@ -1,0 +1,20 @@
+.about-section .about-content {
+  text-align: center;
+}
+
+.about-section .about-content h1 {
+  font-size: 40px;
+}
+
+.about-section .about-content p {
+  font-size: 20px;
+}
+
+.about-section .about-content #about-list {
+  text-align: left;
+  list-style: none;
+}
+
+.about-section .about-content #about-list li a {
+  color: #7777;
+}
